@@ -1,2 +1,2 @@
 # explore-destinations-app
-![](explore_destinations_app/preview.png)
+![](explore_destinations_app/preview.jpg)
